@@ -1,0 +1,154 @@
+*
+{
+    padding:0;
+    margin:0;
+}
+
+h1
+{
+    font: bold 48px/44px "Open Sans", sans-serif;
+}
+
+h2
+{
+    font: normal 36px/44px "Open Sans", sans-serif;
+    color: #333333;
+}
+
+.main_block 
+{
+    width: 1920px;
+    margin-left: 480px;
+    margin-top: 100px;
+}
+
+.clear 
+{
+    clear: both;
+}
+
+.my_image
+{
+    float: left;
+    margin-right: 60px;
+    margin-bottom: 42px;
+}
+
+.my_image img
+{
+    width: 330px;
+    height: 350px;
+}
+
+.block_quote
+{
+    float: left;
+    margin-top: 50px;
+    width: 570px;
+}
+
+.quote
+{
+   display: inline-block;
+   font: italic 28px/42px "Georgia", sans-serif;
+   margin-top: -24px;
+   margin-left: 61px;
+   color: #848484;
+   
+}
+
+.quote_author 
+{
+    display: inline-block;
+    font: 600 16px/42px "Open Sans", sans-serif;
+    color: #55555;
+    margin-left: 61px; 
+    margin-top: 2px;
+}
+
+.authors, 
+.films
+{
+    margin-top: 12px;
+    font: normal 19px/36px "Georgia", sans-serif;
+    padding-left: 20px;    
+}
+
+.authors
+{
+  padding-left: 21px;
+  margin-top: 11px;
+}
+
+.love_items
+{
+    width: 330px;
+    margin-top: 0px;
+    float: left;
+    margin-right:60px;
+}
+
+.tittle_films
+{
+    margin-top: 41px;
+}
+
+.tittle_authors, 
+.tittle_films 
+{
+   display: inline-block;
+   color: #15a98b;
+   font: 600 24px/32px "OpenSans", sans-serif;
+}
+
+.information_block
+{
+    margin-top: -2px;
+    float: left;
+    width: 520px;
+}
+
+.information_block p 
+{
+    font: normal 19px/32px "Georgia", sans-serif;
+    color: #555555;
+}
+.green_line
+{
+    margin-top: 20px;
+    margin-bottom: 38px;
+}
+
+.green_line img
+{
+    border-radius: 5px;
+}
+
+.hobby_tittle 
+{
+    margin-top: 42px; 
+    margin-bottom: 12px; 
+}
+
+.write_button
+{
+    float: left;
+    margin-top: 42px;
+}
+
+.link_write
+{
+    font: normal 19px/32px "Georgia", sans-serif;
+    color: #15a98b;   
+}
+
+.write_button span
+{
+   font: normal 19px/32px "Georgia", sans-serif;
+   color: #15a98b;   
+}
+
+.link_write:hover 
+{
+    color: #098d72;
+}
